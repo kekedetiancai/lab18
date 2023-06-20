@@ -13,6 +13,7 @@ class Lab18ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println(aa.sss());
+        System.out.println(aa.sss());
     }
 
 }
